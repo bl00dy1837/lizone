@@ -1,0 +1,2 @@
+;; Couldn't verify signature: expected a TSIG or SIG(0)
+; Transfer failed.
