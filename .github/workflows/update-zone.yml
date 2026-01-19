@@ -29,8 +29,8 @@ jobs:
         run: |
           git config --global user.name 'bl00dy1837'
           git config --global user.email 'reg-github@klein.tuxli.ch'
-          git add ch_uniq.txt
-          git commit -m $(head -1 ch.txt | awk '{print $7}')
+          git add li_uniq.txt
+          git commit -m $(head -1 li.txt | awk '{print $7}')
           git push
       
 
