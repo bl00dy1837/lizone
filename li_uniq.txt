@@ -1090,7 +1090,6 @@
 777h.li.
 777hdd.li.
 777poker.li.
-77win.li.
 780.li.
 7813.li.
 7815.li.
@@ -1879,6 +1878,7 @@ adfasdbgf.li.
 adfinis.li.
 adfls.li.
 adg.li.
+adhd-agents.li.
 adhd.li.
 adhesivessystems.li.
 adhoc.li.
@@ -1936,7 +1936,6 @@ admiralmulticover.li.
 admiralpoker.li.
 admiralroom.li.
 admiraltriesen.li.
-admire.li.
 adn.li.
 adna.li.
 ado.li.
@@ -6446,6 +6445,7 @@ bauvisiere.li.
 bauwens.li.
 bauwerk-parkett.li.
 bauwerkparkett.li.
+bauwow.li.
 bauzeichnungen.li.
 bauzeit.li.
 bav.li.
@@ -7475,6 +7475,7 @@ bhf.li.
 bhg.li.
 bhi.li.
 bhm.li.
+bhn.li.
 bho.li.
 bhp.li.
 bhpex.li.
@@ -13298,6 +13299,7 @@ crosstrainer.li.
 crovvn.li.
 crowd.li.
 crowdfox.li.
+crowdfunding.li.
 crowdlending.li.
 crowdlitoken.li.
 crowdsourcing.li.
@@ -13852,7 +13854,6 @@ dachfensterrolladen.li.
 dachfensterrollladen.li.
 dachnach.li.
 dachplus.li.
-dachsanierung.li.
 dachser.li.
 dachservice.li.
 dachverband.li.
@@ -14739,6 +14740,7 @@ derhubert.li.
 derimod.li.
 derinet.li.
 deriv.li.
+derivatives.li.
 derkmuinnovator.li.
 derkofler.li.
 derksen.li.
@@ -16776,6 +16778,7 @@ earborn.li.
 earl.li.
 earlybirdcapital.li.
 earlylearningcentre.li.
+earn.li.
 earnings.li.
 earnio.li.
 earth-investment.li.
@@ -19070,7 +19073,6 @@ evt-partner.li.
 evt.li.
 evtk.li.
 evulpo.li.
-evulution.li.
 evy.li.
 evz.li.
 ewa.li.
@@ -19087,6 +19089,7 @@ ewo.li.
 ews.li.
 ewtn.li.
 ex8.li.
+exa-store.li.
 exa.li.
 exact.li.
 exacta-dms.li.
@@ -19094,6 +19097,7 @@ exacta.li.
 exal.li.
 exalead.li.
 example.li.
+exastore.li.
 exbit.li.
 exca.li.
 excalibur.li.
@@ -23658,6 +23662,7 @@ githubae.li.
 githubenterpriseae.li.
 giti.li.
 gitt.li.
+gitter.li.
 gitz.li.
 gitzihoell.li.
 giu.li.
@@ -23998,7 +24003,6 @@ goalzero.li.
 goat.li.
 gob.li.
 gobe.li.
-gobi.li.
 goblin.li.
 goby.li.
 goc.li.
@@ -25891,6 +25895,7 @@ headhunter.li.
 headless.li.
 headloft.li.
 headoffice.li.
+headphon.li.
 headroom.li.
 headshop.li.
 heal.li.
@@ -26100,6 +26105,7 @@ heita105.li.
 heiz.li.
 heizcheck-online.li.
 heizen.li.
+heizmann.li.
 heizplan.li.
 heiztechnik.li.
 heizung.li.
@@ -28001,7 +28007,6 @@ i-liechtensteindigital.li.
 i-lo.li.
 i-love-switzerland.li.
 i-love-water.li.
-i-love.li.
 i-mrs.li.
 i-o.li.
 i-scout24.li.
@@ -30055,6 +30060,7 @@ iwg.li.
 iwi-anstalt.li.
 iwild-casino.li.
 iwin.li.
+iwin68.li.
 iwinclub.li.
 iwinclub1.li.
 iwinvn.li.
@@ -31488,6 +31494,7 @@ kala.li.
 kalai.li.
 kalaichan.li.
 kaleandme.li.
+kaleb-altmetall.li.
 kaleb-it.li.
 kaleidoskop.li.
 kalem.li.
@@ -36321,11 +36328,13 @@ logictidecloud.li.
 logictrust.li.
 logik.li.
 logilab.li.
+login-swiss.li.
 login.li.
 login5.li.
 loginpost.li.
 loginposta.li.
 loginposte.li.
+loginswiss.li.
 logisch.li.
 logisplorer.li.
 logistic4all.li.
@@ -39132,7 +39141,6 @@ merteq.li.
 mertins-frick.li.
 mertins.li.
 mervital.li.
-merxu.li.
 merz.li.
 merzmerkur.li.
 merzothek.li.
@@ -46882,7 +46890,6 @@ playart.li.
 playas.li.
 playbook.li.
 playboy.li.
-played.li.
 player.li.
 playful.li.
 playground.li.
@@ -48067,6 +48074,7 @@ prokop.li.
 prokum.li.
 prokuration.li.
 proled.li.
+prolegal.li.
 prolife.li.
 prolific.li.
 prolinguis.li.
@@ -50350,6 +50358,7 @@ rhomberggroup.li.
 rhomberggruppe.li.
 rhpc.li.
 rhr.li.
+rhreno.li.
 rhs.li.
 rht-ag.li.
 rht.li.
@@ -53476,8 +53485,6 @@ senioren.li.
 seniorenbuehne.li.
 seniorenbund.li.
 seniorencoach.li.
-seniorenfahrkurs.li.
-seniorenfahrtraining.li.
 seniorenfahrzeuge.li.
 seniorenmusik.li.
 seniorennetz.li.
@@ -56966,6 +56973,7 @@ stone-espresso.li.
 stone-hedge.li.
 stone-idea.li.
 stone-invest.li.
+stone.li.
 stoneart.li.
 stoneasy.li.
 stonebird.li.
@@ -57556,7 +57564,6 @@ supersack.li.
 superset.li.
 superseven.li.
 supersigns.li.
-superslot.li.
 superslots.li.
 supersolar.li.
 supersonicimagine.li.
@@ -59602,7 +59609,6 @@ thesource.li.
 thespecialones.li.
 thesting.li.
 thestudiokha.li.
-theta.li.
 thetacoaching.li.
 thetahealing-kurse.li.
 thetahealingkurse.li.
@@ -62332,6 +62338,7 @@ uvas.li.
 uvip.li.
 uvo.li.
 uvr.li.
+uvs.li.
 uvv.li.
 uwa.li.
 uwc.li.
@@ -64512,6 +64519,7 @@ wdy.li.
 wdys.li.
 we-hire-it.li.
 we-love-wool.li.
+we-lu.li.
 we-make-architects.li.
 we-online.li.
 we-teach.li.
@@ -65205,7 +65213,6 @@ whitelabel.li.
 whitepages.li.
 whitepaper.li.
 whitepearl.li.
-whiterose.li.
 whitesocks.li.
 whitestrips.li.
 whitestuff.li.
@@ -66055,6 +66062,7 @@ wsha.li.
 wsi.li.
 wsj.li.
 wsk.li.
+wsl.li.
 wsm.li.
 wsms.li.
 wsna.li.
@@ -68165,6 +68173,7 @@ ymy.li.
 ymyyconsulting.li.
 ync.li.
 ynck.li.
+ynot.li.
 ynsentix.li.
 ynsu.li.
 yo88.li.
@@ -68363,6 +68372,7 @@ yueyan.li.
 yueyong.li.
 yufda.li.
 yufei.li.
+yug.li.
 yuhan.li.
 yuhang.li.
 yuhao.li.
@@ -68721,7 +68731,6 @@ zapando.li.
 zapateria.li.
 zapfwellengenerator.li.
 zapiks.li.
-zapo.li.
 zappa.li.
 zapparo.li.
 zappelmaus.li.
