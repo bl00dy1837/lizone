@@ -1612,7 +1612,6 @@ abfinance.li.
 abflussreiniger.li.
 abg.li.
 abgb.li.
-abgeltungsteuer-optimiert.li.
 abgeltungsteuer.li.
 abgottspon.li.
 abhishek.li.
@@ -2326,6 +2325,7 @@ agent.li.
 agentc.li.
 agentflow.li.
 agentic-mission.li.
+agentic-solutions.li.
 agenticai.li.
 agenticmission.li.
 agentics.li.
@@ -2334,7 +2334,6 @@ agentportal.li.
 agents.li.
 agentur.li.
 agentur007.li.
-agenturen.li.
 agentys.li.
 ageras.li.
 agestop.li.
@@ -5136,7 +5135,6 @@ ativapensionskassenmanagement.li.
 ativapkm.li.
 atk.li.
 atl.li.
-atlantic.li.
 atlantis.li.
 atlas.li.
 atlascopco.li.
@@ -5960,9 +5958,15 @@ b60.li.
 b6m-----k-----x.li.
 b6m-----r-----x.li.
 b74.li.
+b7m-----a-----x.li.
+b7m-----d-----x.li.
+b7m-----g-----x.li.
 b7m-----k-----x.li.
+b7m-----p-----x.li.
 b7m-----q-----x.li.
 b7m-----r-----x.li.
+b7m-----s-----x.li.
+b7m-----y-----x.li.
 b8m-----k-----x.li.
 b8m-----r-----x.li.
 b9m-----n-----x.li.
@@ -6477,7 +6481,6 @@ bargeld.li.
 bargetze-holzbau.li.
 bargetze.li.
 bargetzeart.li.
-bargetzes.li.
 barilla.li.
 barisol.li.
 barista-cafe.li.
@@ -10491,6 +10494,7 @@ caleb.li.
 calend.li.
 calendar.li.
 cali.li.
+caliber.li.
 calibra.li.
 calida.li.
 calidat.li.
@@ -14882,6 +14886,10 @@ deiss.li.
 deisspferdepraxis.li.
 dej.li.
 dejaco-law.li.
+dejaco-zerz-partner.li.
+dejaco-zerz.li.
+dejacozerz.li.
+dejacozerzpartner.li.
 dejan.li.
 dejavue.li.
 dejong.li.
@@ -16615,7 +16623,6 @@ dreh-art.li.
 drehart.li.
 dreher.li.
 drehhaus.li.
-drehmoment.li.
 drehstromhaus.li.
 drei-generationenwohnen.li.
 drei.li.
@@ -17090,6 +17097,7 @@ dzming.li.
 dzmzf.li.
 dzn.li.
 dzoli.li.
+dzpartner.li.
 dzy.li.
 dzzwb.li.
 e-abaroa.li.
@@ -18175,8 +18183,10 @@ elva.li.
 elvaco.li.
 elvag.li.
 elvagmbh.li.
+elveron.li.
 elvetia.li.
 elvia.li.
+elvin.li.
 elvoege.li.
 elw.li.
 elwoodtaxi.li.
@@ -19685,7 +19695,6 @@ exxonmobilchemical.li.
 exxpress.li.
 exyos.li.
 eya.li.
-eye-dna.li.
 eye.li.
 eye5.li.
 eyer.li.
@@ -21230,7 +21239,6 @@ fitness.li.
 fitness24seven.li.
 fitnessbonus.li.
 fitnesscenterguide.li.
-fitnesscoach.li.
 fitnessfuehrer.li.
 fitnessguide.li.
 fitnesshaus.li.
@@ -21796,6 +21804,7 @@ fol.li.
 folate.li.
 fold.li.
 folder.li.
+foldercrate.li.
 folger.li.
 foli.li.
 folien-sichtschutz.li.
@@ -24153,7 +24162,6 @@ gipfel.li.
 gipfelbuch.li.
 gipfelstuermer.li.
 gipfl.li.
-gipiti.li.
 gipser.li.
 gipserei-claudiocazzato.li.
 gipserwerden.li.
@@ -24527,6 +24535,7 @@ go88.li.
 go888.li.
 go88vn.li.
 go90.li.
+go99.li.
 goa.li.
 goafoundation.li.
 goahead.li.
@@ -25917,6 +25926,7 @@ haitzer.li.
 haix.li.
 haiyang.li.
 haj.li.
+haji.li.
 hajja.li.
 hajoona.li.
 hak.li.
@@ -25944,7 +25954,6 @@ haley.li.
 half.li.
 halfasecondahead.li.
 halfon.li.
-halihali.li.
 haliplus.li.
 halkaliescort.li.
 halkyon.li.
@@ -27007,7 +27016,6 @@ herzfit.li.
 herzflimmern.li.
 herzgruppe.li.
 herzig.li.
-herzigiwelp.li.
 herzinfarkt.li.
 herzkatheter.li.
 herzklang.li.
@@ -29376,7 +29384,6 @@ immomarkt.li.
 immomatch.li.
 immondo.li.
 immonia.li.
-immoos.li.
 immopartner.li.
 immopartners.li.
 immoplan.li.
@@ -30179,6 +30186,7 @@ investfonds.li.
 investglass.li.
 investi.li.
 investiere.li.
+investieren.li.
 investife.li.
 investigation.li.
 investinbest-amc.li.
@@ -30501,6 +30509,7 @@ isr.li.
 israe.li.
 israel.li.
 israelimo-co.li.
+israelivideolibrary.li.
 iss-schweiz.li.
 iss.li.
 issdichfit.li.
@@ -33756,6 +33765,7 @@ konzett.li.
 koo.li.
 kookee.li.
 kool.li.
+koolvelo.li.
 koordinant.li.
 kop.li.
 kopa.li.
@@ -35027,7 +35037,6 @@ lastwagenersatzteile.li.
 lastwagenfahrschule.li.
 lastwill.li.
 lasvegas.li.
-lat.li.
 late.li.
 latecnica.li.
 latelier.li.
@@ -37141,6 +37150,7 @@ lofald.li.
 loffel.li.
 lofficiel.li.
 lofi.li.
+lofo.li.
 loft.li.
 lofts.li.
 log.li.
@@ -37838,6 +37848,7 @@ luxemburg.li.
 luxemburger.li.
 luxenburger.li.
 luxi.li.
+luximotors.li.
 luxing.li.
 luxlight.li.
 luxnetwork.li.
@@ -39116,7 +39127,6 @@ matias.li.
 matic.li.
 matiera.li.
 matiola.li.
-matix.li.
 matka.li.
 matomo.li.
 matopherma.li.
@@ -41428,7 +41438,6 @@ morleyfm.li.
 morlitz.li.
 mormon.li.
 morningstar.li.
-moroccanoil.li.
 morocco.li.
 morokol.li.
 moros.li.
@@ -41922,6 +41931,7 @@ munz.li.
 muo.li.
 muota.li.
 muqi.li.
+mur.li.
 mura.li.
 murabaha.li.
 muradhuseyn.li.
@@ -43112,6 +43122,7 @@ nestwaerme.li.
 net-ag.li.
 net-treuhand.li.
 net.li.
+net0.li.
 net2print.li.
 net4vet.li.
 net88.li.
@@ -45193,6 +45204,7 @@ ong.li.
 oni.li.
 onion.li.
 onitsukatiger.li.
+onix.li.
 onixtrust.li.
 onkelherbert.li.
 onkologie.li.
@@ -45797,6 +45809,7 @@ ouija.li.
 ouila.li.
 ouinex.li.
 ouioui.li.
+oul.li.
 oulunenergia.li.
 ouo.li.
 ouoia.li.
@@ -48319,7 +48332,6 @@ polyform.li.
 polygon.li.
 polygraph.li.
 polykomm.li.
-polynpro.li.
 polyone.li.
 polysil-ce.li.
 polyteia.li.
@@ -50827,7 +50839,6 @@ rechtsanwalt-liechtenstein.li.
 rechtsanwalt-marxer.li.
 rechtsanwalt-oesterreich.li.
 rechtsanwalt.li.
-rechtsanwaltjehle.li.
 rechtsanwaltskammer.li.
 rechtsanwaltskanzlei.li.
 rechtsauskunft.li.
@@ -52865,6 +52876,7 @@ s10k.li.
 s2f.li.
 s2l.li.
 s2u.li.
+s3-hr.li.
 s32.li.
 s3a.li.
 s42.li.
@@ -53076,7 +53088,6 @@ saler.li.
 sales-macher.li.
 sales.li.
 salesforce.li.
-salesfunnel.li.
 saleside.li.
 salesmacher.li.
 salesviewer.li.
@@ -53214,7 +53225,6 @@ samu.li.
 samuel.li.
 samuelj.li.
 samueljonestrust.li.
-samuelroos.li.
 samule.li.
 samye.li.
 san.li.
@@ -53756,6 +53766,7 @@ schedler.li.
 schedu.li.
 schedule.li.
 scheduler.li.
+schedulertestdomain.li.
 scheel.li.
 scheer.li.
 schegg.li.
@@ -54337,6 +54348,7 @@ scip.li.
 scipanstalt.li.
 scipfoundation.li.
 scipgroup.li.
+sciurti.li.
 scius-consult.li.
 scivo.li.
 scl.li.
@@ -57345,6 +57357,7 @@ spiceacademy.li.
 spicebox.li.
 spicehaus.li.
 spicher.li.
+spicychi.li.
 spider.li.
 spiders.li.
 spie-sgs.li.
@@ -59735,7 +59748,6 @@ synofin.li.
 synology.li.
 synops.li.
 synopsys.li.
-synoptic.li.
 synora.li.
 synorga.li.
 synotabs.li.
@@ -61440,7 +61452,11 @@ tilbago.li.
 tilda.li.
 tile.li.
 tilel.li.
+tilia-trust-services.li.
+tilia-trust.li.
 tilia.li.
+tiliatrust.li.
+tiliatrustservices.li.
 till-linder.li.
 till.li.
 tillate.li.
@@ -62003,7 +62019,9 @@ topwet.li.
 topwriting.li.
 toq.li.
 tor.li.
+tora.li.
 toradex.li.
+torah.li.
 toran.li.
 toray.li.
 torchwood.li.
@@ -64283,7 +64301,6 @@ vct.li.
 vctr.li.
 vcx.li.
 vda.li.
-vdc.li.
 vdg.li.
 vdi.li.
 vdl.li.
@@ -64580,7 +64597,6 @@ verp.li.
 verpac.li.
 verpacken.li.
 verpackungsdesign.li.
-verpama.li.
 verreisdocheinfach.li.
 verril.li.
 vers.li.
@@ -65859,6 +65875,7 @@ wake-sharing.li.
 wake.li.
 wakeboard.li.
 wakesharing.li.
+waki.li.
 wako.li.
 waku.li.
 wal-ch.li.
@@ -68010,7 +68027,6 @@ x5bet.li.
 x64.li.
 x86.li.
 x8club.li.
-x8q.li.
 x8x.li.
 xaas.li.
 xabina.li.
