@@ -706,6 +706,7 @@
 3b49.li.
 3bc.li.
 3bet.li.
+3ci.li.
 3co.li.
 3com.li.
 3cx.li.
@@ -2084,7 +2085,6 @@ adobe.li.
 adoleo.li.
 adolia.li.
 adolon.li.
-adom.li.
 adon.li.
 adonai.li.
 adonia.li.
@@ -2181,7 +2181,6 @@ advocacyforimpact.li.
 advocate.li.
 advocatio.li.
 advocatur.li.
-advocaturgeiger.li.
 advocaturmeier.li.
 advocatus-diabo.li.
 advocatusdiabo.li.
@@ -2439,7 +2438,6 @@ agrivita.li.
 agro.li.
 agroflor.li.
 agroline.li.
-agronetto.li.
 agroterra.li.
 agroterraconsult.li.
 agrotrace.li.
@@ -2649,7 +2647,6 @@ airporttransportation.li.
 airproduct.li.
 airqueen.li.
 airrescue.li.
-airservices.li.
 airsoft.li.
 airstation.li.
 airstream.li.
@@ -2772,7 +2769,6 @@ aktivzurschule.li.
 aktuar.li.
 aktuell.li.
 aktuellenews.li.
-aku.li.
 akupressur.li.
 akupunkt-massage.li.
 akupunktmassage.li.
@@ -3279,7 +3275,6 @@ alpenland-verlag.li.
 alpenlandverlag.li.
 alpenlingua.li.
 alpenlogic.li.
-alpenoel.li.
 alpenpionier.li.
 alpenregion.li.
 alpenresort.li.
@@ -4659,7 +4654,6 @@ arisa.li.
 arisol.li.
 arist.li.
 arista.li.
-aristan.li.
 aristanetworks.li.
 aristide.li.
 aristocat.li.
@@ -5265,7 +5259,6 @@ aua.li.
 aubacke.li.
 aube.li.
 aubergine.li.
-aubert-biomed.li.
 aubert.li.
 aubi.li.
 aubin.li.
@@ -7097,6 +7090,7 @@ beeler.li.
 beelte.li.
 beem.li.
 beeman.li.
+beepgo.li.
 beer.li.
 beer4you.li.
 beergrill.li.
@@ -7990,7 +7984,6 @@ bilderboxliechtenstein.li.
 bilderdienst.li.
 bildergalerie.li.
 bilderlust.li.
-bildershop.li.
 bildhauerschule.li.
 bildkonzepte.li.
 bildmanufaktur.li.
@@ -11620,7 +11613,6 @@ chargingpoint.li.
 chariot.li.
 charisma.li.
 charismafoundation.li.
-charities.li.
 charity.li.
 charityconsulting.li.
 charlee.li.
@@ -11871,7 +11863,6 @@ chl.li.
 chlaeber.li.
 chloe.li.
 chlordioxid.li.
-chm.li.
 chmn.li.
 chn.li.
 chnueb.li.
@@ -16206,7 +16197,6 @@ document-signing.li.
 document.li.
 documentsigning.li.
 docupass.li.
-docuserv.li.
 docusign.li.
 docusort.li.
 docuware.li.
@@ -18492,7 +18482,6 @@ energievision.li.
 energy-balancing.li.
 energy-plus.li.
 energy-strategies.li.
-energy.li.
 energybalance.li.
 energybit.li.
 energybody.li.
@@ -19636,7 +19625,6 @@ exklusivparfum.li.
 exklusivtaxi.li.
 exkurse.li.
 exlab.li.
-exlibris.li.
 exness.li.
 exnovo.li.
 exo.li.
@@ -22282,7 +22270,6 @@ frauenvereinvaduz.li.
 frauenzimmer.li.
 frauer.li.
 fraui-comedy.li.
-fraui.li.
 fravio.li.
 fravo.li.
 frb.li.
@@ -22393,7 +22380,6 @@ freilandeier.li.
 freimaurerei.li.
 freiraum.li.
 freiride.li.
-freischwimmer.li.
 freisolutions.li.
 freispiele.li.
 freistaedtische.li.
@@ -23475,7 +23461,6 @@ gebet.li.
 gebetsbox.li.
 gebharts-provinum.li.
 gebman.li.
-geborenam1ju.li.
 gebr-beck.li.
 gebr-buehler.li.
 gebr-lampert.li.
@@ -25134,7 +25119,6 @@ greensolar.li.
 greenstate.li.
 greenstone-insurance.li.
 greenteba.li.
-greentec.li.
 greentoheat.li.
 greenvaletaxi.li.
 greenwheels.li.
@@ -27551,7 +27535,6 @@ hochzeitsball.li.
 hochzeitsbild.li.
 hochzeitsfahrten.li.
 hochzeitsfotograf.li.
-hochzeitsfotografen.li.
 hochzeitsmesse.li.
 hochzeitsreisen.li.
 hochzeitsstrauss.li.
@@ -30994,6 +30977,7 @@ janser.li.
 jansport.li.
 janssen-cosmetics.li.
 janssen.li.
+janssens.li.
 jantewikosa.li.
 jantike.li.
 janus-engineering.li.
@@ -32301,6 +32285,7 @@ kaltstart.li.
 kalu.li.
 kalyana.li.
 kalyx-studio.li.
+kam.li.
 kama.li.
 kamado-joe.li.
 kamadojoe.li.
@@ -33187,6 +33172,7 @@ kirschner.li.
 kirstein.li.
 kisa.li.
 kischt.li.
+kisex.li.
 kishur.li.
 kismet.li.
 kiss.li.
@@ -34433,7 +34419,6 @@ kunstkraftwerk.li.
 kunstkurs.li.
 kunstmit.li.
 kunstmuseum.li.
-kunstrasen-liga.li.
 kunstrasenliga.li.
 kunstraum-englaenderbau.li.
 kunstraum.li.
@@ -34900,8 +34885,6 @@ landesspiegel.li.
 landesspital.li.
 landesverwaltung.li.
 landeszeitung.li.
-landgasthof-au.li.
-landgasthofau.li.
 landgericht.li.
 landhaus-nendeln.li.
 landhaus.li.
@@ -36590,7 +36573,9 @@ link2go.li.
 link4.li.
 linka.li.
 linkapp.li.
+linkbadge.li.
 linkbio.li.
+linkbridge.li.
 linke.li.
 linked.li.
 linkedin.li.
@@ -36923,6 +36908,7 @@ lkj.li.
 lkjuy.li.
 lkk.li.
 lkl.li.
+lko.li.
 lkr.li.
 lkrd.li.
 lks.li.
@@ -37854,6 +37840,7 @@ lustenberger.li.
 lustmap.li.
 lustvoll-leben.li.
 lustycinema.li.
+lustyweb.li.
 luterbach.li.
 luth-kirche.li.
 luther.li.
@@ -41310,7 +41297,6 @@ monia.li.
 monier.li.
 monika-nigg.li.
 monip.li.
-moniq.li.
 monique.li.
 monitoor.li.
 monitor.li.
@@ -44490,6 +44476,7 @@ nvroy.li.
 nvs.li.
 nvv.li.
 nvw.li.
+nvx.li.
 nwa.li.
 nwall.li.
 nwb.li.
@@ -46964,7 +46951,6 @@ perfectfitbydamart.li.
 perfectform.li.
 perfecthair.li.
 perfectlover.li.
-perfectme.li.
 perfecto.li.
 perfectos.li.
 perfectouch.li.
@@ -48655,6 +48641,7 @@ ppmc-analytics.li.
 ppmc.li.
 ppn.li.
 ppp.li.
+pppo.li.
 pppp.li.
 ppq.li.
 ppr.li.
@@ -51354,7 +51341,6 @@ replychef.li.
 repmax.li.
 report.li.
 reportat.li.
-reporter.li.
 repository.li.
 repower.li.
 repowermap.li.
@@ -51937,6 +51923,7 @@ rivel.li.
 rivella.li.
 rivendell.li.
 rivera.li.
+riverberg.li.
 riverhead.li.
 riverheadtaxi.li.
 riverisland.li.
@@ -52272,7 +52259,6 @@ rollups24.li.
 roly.li.
 rom.li.
 roma.li.
-romagno.li.
 romain.li.
 roman-hermann-ag.li.
 roman.li.
@@ -53298,7 +53284,6 @@ sandrogertsch.li.
 sandrolino.li.
 sandrosimonaeschbach.li.
 sandrost.li.
-sandsiv.li.
 sandstone.li.
 sandstrahlerei.li.
 sandstrand.li.
@@ -54577,7 +54562,6 @@ sebo.li.
 sec-consult.li.
 sec-consulting.li.
 sec.li.
-sec04live.li.
 sec4it.li.
 secanda.li.
 secci.li.
@@ -54768,10 +54752,8 @@ sek.li.
 seka.li.
 sekinger.li.
 sekoya.li.
-sekret.li.
 sektorz.li.
 seku.li.
-sekur.li.
 sel.li.
 selangar.li.
 selbergemacht.li.
@@ -58416,7 +58398,6 @@ stimaq.li.
 stimm.li.
 stimmcoach.li.
 stimme.li.
-stimmschluessel.li.
 stimmtraining.li.
 stimu.li.
 stimul.li.
@@ -59847,7 +59828,6 @@ syyu.li.
 syz.li.
 szabo.li.
 szant.li.
-szar.li.
 szc.li.
 szd.li.
 szilagyi.li.
@@ -60021,6 +60001,7 @@ tajal.li.
 tajo.li.
 tak.li.
 taka8rie.li.
+takaxy.li.
 take-a-break.li.
 take.li.
 take5.li.
@@ -61550,6 +61531,7 @@ timothy.li.
 timp.li.
 tims.li.
 timschurte.li.
+tin.li.
 tin88.li.
 tina-mara.li.
 tina.li.
@@ -61769,6 +61751,7 @@ tntcamper.li.
 tnv.li.
 tnw.li.
 tny.li.
+toa.li.
 toast.li.
 toastbrot.li.
 tob.li.
@@ -61936,7 +61919,6 @@ tonihiltistiftung.li.
 toninel.li.
 tonisberg.li.
 tonline.li.
-tonneauking.li.
 tonninsete.li.
 tono.li.
 tonspur-digital.li.
@@ -62729,7 +62711,6 @@ troweprise.li.
 trowerice.li.
 trowprice.li.
 trox.li.
-troxer.li.
 troxler.li.
 troy.li.
 trp.li.
@@ -66432,7 +66413,6 @@ webtouch.li.
 webtracker.li.
 webtransfer.li.
 webtranslateit.li.
-webtube.li.
 webuy.li.
 webvorschau.li.
 webwerk.li.
@@ -66759,7 +66739,6 @@ werbeagentur.li.
 werbeanhaenger.li.
 werbeartikel.li.
 werbeballon.li.
-werbebildschirm.li.
 werbebooster.li.
 werbefactory.li.
 werbefahrzeug.li.
@@ -68391,7 +68370,6 @@ xn--aligatr-f1a.li.
 xn--allergieauflsung-xwb.li.
 xn--allmilm-g1a.li.
 xn--alpenklber-v5a.li.
-xn--alpenl-0xa.li.
 xn--alpenrs-f1a.li.
 xn--alphs-nva.li.
 xn--alphtt-6ya.li.
@@ -69490,7 +69468,6 @@ xn--zcker-kva.li.
 xn--zebrliundbr-o8ag.li.
 xn--zg-xka.li.
 xn--zgellift-65a.li.
-xn--zhne-frs-leben-5hb30b.li.
 xn--zndholz-n2a.li.
 xn--zottelbr-6za.li.
 xn--zri-news-65a.li.
@@ -70569,6 +70546,7 @@ zava.li.
 zavarius.li.
 zaw.li.
 zawa.li.
+zay.li.
 zaya.li.
 zaz.li.
 zazan.li.
@@ -71374,6 +71352,7 @@ zwksm.li.
 zwlando.li.
 zwn.li.
 zwo.li.
+zwotti.li.
 zwx.li.
 zwzzo.li.
 zx6.li.
