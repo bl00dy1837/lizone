@@ -54,7 +54,9 @@
 037.li.
 038.li.
 0380.li.
+039.li.
 03i-----g-----x.li.
+040.li.
 041.li.
 0419.li.
 042.li.
@@ -1308,7 +1310,6 @@
 88409.li.
 8850.li.
 88675.li.
-8876.li.
 888.li.
 8888.li.
 88888.li.
@@ -1501,6 +1502,7 @@ a14.li.
 a1569-dscr-akamai.li.
 a16.li.
 a1xn.li.
+a21.li.
 a24.li.
 a24a.li.
 a2a.li.
@@ -3557,7 +3559,6 @@ amagsvizzera.li.
 amagtv.li.
 amagversicherung.li.
 amagwiki.li.
-amail.li.
 amalia.li.
 aman.li.
 amanda.li.
@@ -4225,6 +4226,7 @@ apel.li.
 apemig.li.
 apenta.li.
 aper.li.
+aperix.li.
 apero-bar.li.
 apero.li.
 aperto.li.
@@ -4527,7 +4529,6 @@ arcadia.li.
 arcadiatelevision.li.
 arcadiatv.li.
 arcane.li.
-arcanemedia.li.
 arcange.li.
 arcano.li.
 arcanus.li.
@@ -5992,6 +5993,7 @@ b4y.li.
 b52.li.
 b52club.li.
 b57.li.
+b5h-----k-----x.li.
 b5m-----k-----x.li.
 b5m-----r-----x.li.
 b60.li.
@@ -8044,6 +8046,7 @@ billiger.li.
 billigerjakob.li.
 billigferien.li.
 billing.li.
+billionaire.li.
 billit.li.
 billme.li.
 billpay.li.
@@ -8362,7 +8365,6 @@ bjfzm.li.
 bjhds.li.
 bjj.li.
 bjk.li.
-bjka.li.
 bjm.li.
 bjmce.li.
 bjn.li.
@@ -9532,6 +9534,7 @@ brfva.li.
 brg.li.
 bri.li.
 brian.li.
+brianclub.li.
 brianhaas.li.
 briansclub.li.
 brianv.li.
@@ -10938,8 +10941,6 @@ carpetstorelx.li.
 carpetstorexl.li.
 carpo.li.
 carpooling.li.
-carpuls.li.
-carpulse.li.
 carracing.li.
 carrasco.li.
 carrel.li.
@@ -11184,7 +11185,6 @@ catlab.li.
 catmedia.li.
 cato.li.
 catraca.li.
-cattedra.li.
 catu.li.
 cau.li.
 causa.li.
@@ -11209,7 +11209,6 @@ cavok.li.
 cax.li.
 cay.li.
 caylas.li.
-cayma.li.
 cazoo.li.
 cazti.li.
 cb01.li.
@@ -13771,6 +13770,7 @@ cryoliposuccion.li.
 cryp.li.
 crypt.li.
 crypta.li.
+crypted.li.
 cryptex.li.
 cryptic.li.
 cryptix.li.
@@ -16879,7 +16879,6 @@ dstny.li.
 dsul.li.
 dsurance.li.
 dsv.li.
-dsw.li.
 dswiss.li.
 dsy.li.
 dsys.li.
@@ -16996,8 +16995,6 @@ dummer.li.
 dummuser.li.
 dummy.li.
 dumont.li.
-dump.li.
-dumpli.li.
 dunapanda.li.
 duncan.li.
 dune.li.
@@ -19231,6 +19228,7 @@ etr.li.
 etrade.li.
 etrainplatform.li.
 etrave.li.
+etrip.li.
 etrust.li.
 ets.li.
 etsi.li.
@@ -20117,7 +20115,6 @@ fanal.li.
 fanatics.li.
 fanband.li.
 fanbands.li.
-fanciul.li.
 fanclubromanobike.li.
 fancy.li.
 fanduel.li.
@@ -20894,7 +20891,6 @@ finalefurioso.li.
 finali.li.
 finalit.li.
 finalp.li.
-finamill.li.
 finance-forum.li.
 finance-liechtenstein.li.
 finance-news.li.
@@ -22076,7 +22072,6 @@ forwi.li.
 foryou.li.
 foryourlife.li.
 fos.li.
-foscanel.li.
 foser.li.
 foserag.li.
 foshan.li.
@@ -22875,6 +22870,7 @@ fur.li.
 furandu.li.
 furisto.li.
 furkan.li.
+furl.li.
 furla.li.
 furnari.li.
 furniere.li.
@@ -24028,7 +24024,6 @@ gfj.li.
 gfk.li.
 gfl.li.
 gfm.li.
-gfn.li.
 gfo-vaduz.li.
 gfq.li.
 gfs.li.
@@ -24147,7 +24142,6 @@ gigabyte.li.
 gigahost.li.
 gigamobii.li.
 giganews.li.
-gigantel.li.
 gigaset.li.
 gigaton.li.
 giger.li.
@@ -24503,7 +24497,6 @@ gmb.li.
 gmbh.li.
 gmc.li.
 gmcw.li.
-gmd.li.
 gmedia.li.
 gmeiner.li.
 gmelin.li.
@@ -25563,6 +25556,7 @@ gug.li.
 guga.li.
 guge.li.
 gugelmann.li.
+gugg.li.
 gugga.li.
 guggaaroundmalbun.li.
 guggamusik.li.
@@ -28301,6 +28295,7 @@ hsr.li.
 hss.li.
 hssgroup.li.
 hst.li.
+hstr.li.
 hsuan.li.
 hsvl.li.
 hsw.li.
@@ -28856,6 +28851,7 @@ ich-bin-ich.li.
 ich-bin.li.
 ich-geh-in-die-schweiz.li.
 ich-spende-zeit.li.
+ich-teile.li.
 ich-will-zur-feuerwehr.li.
 icha.li.
 ichbin.li.
@@ -28865,6 +28861,7 @@ ichdiezukunft.li.
 ichliebedich.li.
 ichspendezeit.li.
 ichsuche.li.
+ichteile.li.
 ichwanulfadh.li.
 icinga.li.
 ick.li.
@@ -29434,7 +29431,6 @@ immoleague.li.
 immolie.li.
 immolife24.li.
 immoline.li.
-immolution.li.
 immomacher.li.
 immomarkt.li.
 immomatch.li.
@@ -30588,6 +30584,7 @@ istopby.li.
 istrotec.li.
 istudio.li.
 isturkcell.li.
+isu.li.
 isup.li.
 isurf.li.
 isvicre.li.
@@ -32271,7 +32268,6 @@ kaiyong.li.
 kaiyue.li.
 kaizapp.li.
 kaizen.li.
-kaj.li.
 kaka.li.
 kakao-ent.li.
 kakao.li.
@@ -34645,6 +34641,7 @@ kyoto.li.
 kyr.li.
 kyra-investissements.li.
 kyrifund.li.
+kyro.li.
 kyrolights.li.
 kyu.li.
 kyun.li.
@@ -34863,6 +34860,7 @@ lamarzocco.li.
 lambda-ecl-capital.li.
 lambda.li.
 lambert.li.
+lambiase.li.
 lambic.li.
 lamborghini.li.
 lambrecht.li.
@@ -38121,7 +38119,6 @@ m4m.li.
 m4p.li.
 m4x.li.
 m5j.li.
-m88.li.
 m89.li.
 ma-bautech.li.
 ma-boutique-en.li.
@@ -38363,6 +38360,7 @@ maiestas.li.
 maii.li.
 maik.li.
 maike.li.
+maikmail.li.
 mail-ch.li.
 mail-cock.li.
 mail-hero.li.
@@ -40924,6 +40922,7 @@ mivo.li.
 miw.li.
 mix.li.
 mixbook.li.
+mixchange.li.
 mixchannel.li.
 mixed.li.
 mixer.li.
@@ -43421,7 +43420,6 @@ newnordic.li.
 neworbitagency.li.
 newos.li.
 newpm.li.
-newprimewire.li.
 newrelic.li.
 news.li.
 news24.li.
@@ -44103,6 +44101,7 @@ norton.li.
 norwegian.li.
 norwexrace.li.
 nos-dos.li.
+nos.li.
 noser-fashion.li.
 noser.li.
 noserlight.li.
@@ -46384,6 +46383,7 @@ paragraf7.li.
 paragraph.li.
 paragraph7.li.
 paraguay.li.
+parainvestment.li.
 parajumpers.li.
 paralda.li.
 parallelgan.li.
@@ -54432,7 +54432,6 @@ scolaro.li.
 scoo.li.
 scoopsquad.li.
 scooter.li.
-scooterdynamics.li.
 scope.li.
 scopu.li.
 score.li.
@@ -60253,7 +60252,6 @@ tarsis.li.
 tartec.li.
 tarti.li.
 taru.li.
-tarzanel.li.
 tas.li.
 tasa.li.
 taschenrechner.li.
@@ -61742,7 +61740,6 @@ tld.li.
 tldr.li.
 tle.li.
 tlenes.li.
-tlg.li.
 tli-lab.li.
 tli-whitelabel.li.
 tli.li.
@@ -65749,6 +65746,7 @@ vu-balzers.li.
 vu-online.li.
 vu-triesenberg.li.
 vu88.li.
+vua.li.
 vua88.li.
 vuca.li.
 vuelos-baratos.li.
@@ -68875,7 +68873,6 @@ xn--hausbnt-r2a.li.
 xn--hauseigentmerverband-yec.li.
 xn--hbsch-kva.li.
 xn--hch-sna.li.
-xn--hcker-gra.li.
 xn--hcker-kchen-l8a23a.li.
 xn--hcki-loa.li.
 xn--heizl-mua.li.
