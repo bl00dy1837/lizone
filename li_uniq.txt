@@ -4087,7 +4087,6 @@ annemariejehle.li.
 annen.li.
 annina.li.
 annlee.li.
-annodomini.li.
 annsummers.li.
 annu.li.
 annua.li.
@@ -4189,7 +4188,6 @@ antonio.li.
 antonius.li.
 antora.li.
 antris.li.
-anu.li.
 anua.li.
 anubisan.li.
 anuk.li.
@@ -8381,6 +8379,7 @@ bitcoinmining.li.
 bitcoinpay.li.
 bitcoins.li.
 bitcoinstein.li.
+bitcoinstiftung.li.
 bitcoinsuisse-bank.li.
 bitcoinsuisse.li.
 bitcoinsuissebank.li.
@@ -9615,6 +9614,7 @@ brettspiele.li.
 breuer.li.
 breuninger.li.
 breuss.li.
+brev.li.
 brevit.li.
 brew.li.
 brewer.li.
@@ -11711,7 +11711,6 @@ changlin.li.
 changmao.li.
 changqing.li.
 changsha.li.
-changzhi.li.
 channel.li.
 channelpilot.li.
 channoine.li.
@@ -13166,7 +13165,6 @@ confidence-swiss.li.
 confident.li.
 confidentia.li.
 confidential.li.
-confido.li.
 config.li.
 confindance.li.
 confiserie-teuscher.li.
@@ -13873,7 +13871,6 @@ crs.li.
 crsp.li.
 crt.li.
 crtfy.li.
-cru.li.
 crud.li.
 cruise.li.
 cruisebookingworld.li.
@@ -14394,6 +14391,7 @@ d4w.li.
 d74.li.
 da-maja.li.
 da88.li.
+daa.li.
 daaa.li.
 daag.li.
 daan.li.
@@ -14669,6 +14667,7 @@ dashboard.li.
 dashive.li.
 dasholzhausderzukunft.li.
 dasilva.li.
+dasilvatreuhand.li.
 dasland.li.
 dasletzteauge.li.
 dasludwig.li.
@@ -16672,7 +16671,6 @@ dotonline.li.
 dotplanet.li.
 dots.li.
 dotshot.li.
-dott.li.
 dottest.li.
 dottestnet.li.
 dottore.li.
@@ -20029,6 +20027,7 @@ fabrykajabo.li.
 fabu.li.
 fabuleos.li.
 fabulousfeet.li.
+faby.li.
 fac.li.
 facbolivia.li.
 faccio.li.
@@ -20599,6 +20598,7 @@ fehse.li.
 fei.li.
 feichtinger-koch.li.
 feichtinger.li.
+feier.li.
 feierabend.li.
 feiertag.li.
 feiertage.li.
@@ -22629,7 +22629,6 @@ freizeitpark.li.
 freizeitparks.li.
 fren.li.
 french-stream.li.
-frenchbully.li.
 frend.li.
 frendo.li.
 frequency.li.
@@ -22891,6 +22890,7 @@ fso.li.
 fsociety.li.
 fsp.li.
 fspn.li.
+fss.li.
 fst.li.
 fsta.li.
 fstd.li.
@@ -24247,6 +24247,7 @@ gfe-pool-sauna.li.
 gfe-spa.li.
 gfef-fund.li.
 gfeller.li.
+gff.li.
 gfh.li.
 gfhkf.li.
 gfj.li.
@@ -24364,7 +24365,6 @@ gift-cards.li.
 gift.li.
 giftcard.li.
 giftcards.li.
-gifts.li.
 gig.li.
 giga.li.
 gigabit.li.
@@ -25844,6 +25844,7 @@ gujby.li.
 gujer.li.
 guk.li.
 gul.li.
+gula.li.
 gulbinat.li.
 guler.li.
 gulfbrokers.li.
@@ -27789,6 +27790,7 @@ hob.li.
 hobast.li.
 hobbit.li.
 hobby.li.
+hobbycorner.li.
 hobi.li.
 hoboken.li.
 hobson.li.
@@ -28175,6 +28177,7 @@ hoopers-agility.li.
 hoopers.li.
 hooponopono.li.
 hoor.li.
+hootier.li.
 hoover.li.
 hoovers.li.
 hop.li.
@@ -30333,6 +30336,7 @@ intelligenz.li.
 intelligenzint.li.
 intellisoftalpin.li.
 intelsat.li.
+intent.li.
 inteos.li.
 inteqt.li.
 inter-act.li.
@@ -31590,6 +31594,7 @@ jhs.li.
 jhu.li.
 jhw.li.
 ji0.li.
+jia-hui.li.
 jia-xuan.li.
 jia-yi.li.
 jia.li.
@@ -32347,6 +32352,7 @@ jusline.li.
 jusso.li.
 just-all-for-my.li.
 just-do-it.li.
+just-eat.li.
 just-relax.li.
 just-schweiz.li.
 just.li.
@@ -34907,6 +34913,7 @@ kvx.li.
 kw-fengshui.li.
 kw-immobilien.li.
 kwanko.li.
+kwans.li.
 kwanza.li.
 kwc.li.
 kwd.li.
@@ -38152,6 +38159,7 @@ lumei.li.
 lumen-solution.li.
 lumen.li.
 lumenadvisory.li.
+lumenapp.li.
 lumenre.li.
 lumeria.li.
 lumi.li.
@@ -45396,7 +45404,6 @@ ohrkerzen.li.
 ohs.li.
 oht.li.
 ohub.li.
-ohuela.li.
 ohv.li.
 ohyeah.li.
 oida.li.
@@ -46233,6 +46240,7 @@ ospeltprecision.li.
 ospelts.li.
 ospeltstrehlau.li.
 oss.li.
+osservatoriosuimovimentifiorentini.li.
 osshop.li.
 ossinger.li.
 ossio.li.
@@ -46652,7 +46660,6 @@ painting.li.
 paio.li.
 pair.li.
 pairs.li.
-pais.li.
 paiskincare.li.
 pajass.li.
 pak.li.
@@ -48427,7 +48434,6 @@ pjn.li.
 pjtpartners.li.
 pk-group.li.
 pk-rueck.li.
-pk88vn.li.
 pkb.li.
 pkf-vaduz.li.
 pkf.li.
@@ -48493,6 +48499,7 @@ planbau2000.li.
 planbet.li.
 planbet1.li.
 planbiodivers.li.
+planbotschaft.li.
 plancraft.li.
 plane.li.
 planen.li.
@@ -49008,6 +49015,7 @@ porsche-service.li.
 porsche.li.
 porscheclub.li.
 porschemacan.li.
+port-capital.li.
 port.li.
 portaa.li.
 portal-berufsbildung.li.
@@ -50065,7 +50073,6 @@ ptb.li.
 ptcfl.li.
 pte.li.
 ptf.li.
-pth.li.
 pthe.li.
 pti.li.
 ptigui.li.
@@ -51534,6 +51541,7 @@ redphoenix-trust.li.
 redphoenix.li.
 redphoenixtrust.li.
 redphone.li.
+reds.li.
 redscorpions.li.
 redsea.li.
 redstone.li.
@@ -51842,7 +51850,6 @@ renate-willi.li.
 renaud.li.
 render.li.
 renderjon.li.
-rendi.li.
 rendite.li.
 rene.li.
 renecost.li.
@@ -51959,6 +51966,7 @@ resetstudio.li.
 resi.li.
 residence.li.
 residenceone.li.
+resident.li.
 residenz.li.
 residenzia.li.
 residio.li.
@@ -52701,6 +52709,7 @@ rocco.li.
 roche.li.
 rocheholding.li.
 roci.li.
+rocinante.li.
 rock.li.
 rockcity.li.
 rockeaglesolutions.li.
@@ -52845,7 +52854,6 @@ rollendruck.li.
 rollerina.li.
 rollermouse.li.
 rollerteam.li.
-rolli-ruhe.li.
 rolli.li.
 rollinger.li.
 rollladen.li.
@@ -53654,7 +53662,6 @@ saharatrekking.li.
 sahe.li.
 sahib.li.
 sahin.li.
-sahinmous.li.
 sahits.li.
 sahkolaitos.li.
 sai.li.
@@ -54670,7 +54677,6 @@ schneiderei.li.
 schneiderin.li.
 schneiders.li.
 schneiderstueb.li.
-schneidertuertscher.li.
 schneiter.li.
 schneller.li.
 schnellsoft.li.
@@ -55895,6 +55901,7 @@ sharky.li.
 sharnet.li.
 sharon.li.
 sharonschaefer.li.
+sharp.li.
 shasha.li.
 shasho.li.
 shau.li.
@@ -56501,6 +56508,7 @@ simpsonprotocol.li.
 simpsons.li.
 simrad-yachting.li.
 simradyachting.li.
+simsalasim.li.
 simu.li.
 simul.li.
 simulate.li.
@@ -58515,6 +58523,7 @@ stahlmann.li.
 stahlschmidt.li.
 stahlzart.li.
 stair.li.
+stake.li.
 stakecasino.li.
 stakes.li.
 staking.li.
@@ -59679,6 +59688,7 @@ supergut.li.
 superguud.li.
 superhuman.li.
 superintelligence.li.
+superintelligent.li.
 superleasing.li.
 superlove.li.
 supermagnet.li.
@@ -61496,6 +61506,7 @@ testcb20130513de002.li.
 testcbtransfer001.li.
 testcenter.li.
 testdoamidn743323.li.
+testdomain.li.
 tester.li.
 testerei.li.
 testgroup24.li.
@@ -62049,6 +62060,7 @@ ticketswap.li.
 tickettoparis.li.
 ticombo.li.
 ticonderoga.li.
+tics.li.
 tid.li.
 tidalblue.li.
 tidalux.li.
@@ -62331,7 +62343,6 @@ tjw.li.
 tk-logistik.li.
 tk-nucera.li.
 tk88.li.
-tk88i.li.
 tka-akkutechnik.li.
 tkaccelis.li.
 tkf.li.
@@ -63784,6 +63795,7 @@ twi.li.
 twic.li.
 twigle.li.
 twilio.li.
+twim.li.
 twimg.li.
 twin-set.li.
 twin-sheet.li.
@@ -64895,7 +64907,6 @@ vanillavendel.li.
 vanina.li.
 vanityfair.li.
 vanja.li.
-vanke.li.
 vanlifestore24.li.
 vanmossel.li.
 vanmosselenergy.li.
@@ -65715,7 +65726,6 @@ violi.li.
 violin.li.
 vionnet.li.
 vip-beratung.li.
-vip-flights.li.
 vip-limousinen.li.
 vip.li.
 vip66.li.
@@ -70413,6 +70423,7 @@ yago.li.
 yagodki.li.
 yaguang.li.
 yah.li.
+yahe.li.
 yahoo.li.
 yahooads.li.
 yahya.li.
@@ -71485,6 +71496,7 @@ zesam.li.
 zesen.li.
 zeta.li.
 zeta45.li.
+zetareticu.li.
 zetou.li.
 zett.li.
 zette.li.
