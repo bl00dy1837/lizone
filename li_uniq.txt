@@ -913,6 +913,7 @@
 4st.li.
 4t2.li.
 4test.li.
+4ti.li.
 4turbo.li.
 4ward.li.
 4wd.li.
@@ -3577,7 +3578,6 @@ alvinzy.li.
 alvito.li.
 always-forward.li.
 always.li.
-alwaysa.li.
 alwaysbefit.li.
 alwina.li.
 alx.li.
@@ -3590,6 +3590,7 @@ amac.li.
 amaco.li.
 amadeus.li.
 amador.li.
+amaedori.li.
 amaen.li.
 amag-award.li.
 amag-boutique.li.
@@ -4117,6 +4118,7 @@ anna-archive.li.
 anna-fe.li.
 anna-field.li.
 anna-gstoehl.li.
+anna-thoma.li.
 anna.li.
 annabanzer.li.
 annabel.li.
@@ -4308,6 +4310,7 @@ ap-trefinco.li.
 ap3-stiftung.li.
 apa.li.
 apac.li.
+apacare.li.
 apace.li.
 apache.li.
 apaej.li.
@@ -7321,6 +7324,7 @@ bei.li.
 beibei.li.
 beic-lifestyle.li.
 beic.li.
+beichen.li.
 beie.li.
 beiersdorf.li.
 beijing.li.
@@ -9318,6 +9322,7 @@ bookme.li.
 bookmyname.li.
 booknofees.li.
 bookr.li.
+books-by-autumn.li.
 books.li.
 bookshop.li.
 boom.li.
@@ -9725,6 +9730,7 @@ brews.li.
 breyn.li.
 brezel.li.
 brezelkoenig.li.
+breziva.li.
 brf.li.
 brfm.li.
 brfva.li.
@@ -9775,6 +9781,7 @@ brigantia.li.
 brigger.li.
 briggs.li.
 bright.li.
+brightfuture.li.
 brightlightfoundation.li.
 brightventures.li.
 brigitt.li.
@@ -11768,6 +11775,7 @@ cha.li.
 chaas.li.
 chaava.li.
 chab.li.
+chabad.li.
 chabitz.li.
 chabot.li.
 chabottv.li.
@@ -11778,7 +11786,6 @@ chae.li.
 chaeppe.li.
 chaes.li.
 chaescht.li.
-chaest.li.
 chaetz.li.
 chai.li.
 chaim.li.
@@ -12734,6 +12741,7 @@ cloudify.li.
 cloudmail.li.
 cloudman.li.
 cloudone.li.
+cloudpartner.li.
 cloudperfect.li.
 clouds.li.
 cloudscale.li.
@@ -13108,6 +13116,7 @@ commande.li.
 commandify.li.
 commend.li.
 commerce-media.li.
+commerce.li.
 commerciallending.li.
 commerzbank.li.
 commit.li.
@@ -14895,7 +14904,6 @@ datingdirect.li.
 datingschwiiz.li.
 datingscout.li.
 datocapital.li.
-datte.li.
 datti.li.
 datwyler.li.
 dauda.li.
@@ -15926,7 +15934,6 @@ different.li.
 differente.li.
 diffrns.li.
 diffuse.li.
-dify.li.
 dig.li.
 diga.li.
 digafin.li.
@@ -22368,6 +22375,7 @@ formsache.li.
 formu.li.
 formula-air.li.
 formulate.li.
+formuo.li.
 formy.li.
 forpsi-cloud.li.
 forpsicloud.li.
@@ -23351,6 +23359,7 @@ fwab.li.
 fwby.li.
 fwc.li.
 fwd.li.
+fwd2.li.
 fweb.li.
 fwm.li.
 fwo.li.
@@ -23965,6 +23974,7 @@ geila-scheiss.li.
 geilasiach.li.
 geile-weiber.li.
 geilinger.li.
+geischt.li.
 geiser.li.
 geisha.li.
 geisinger.li.
@@ -24075,7 +24085,6 @@ gene.li.
 genealogen.li.
 genealogie.li.
 genealogistes.li.
-genegeneration.li.
 genera.li.
 general-office.li.
 general-overnight.li.
@@ -24223,6 +24232,7 @@ gerald.li.
 geraldkern.li.
 gerard.li.
 gerards.li.
+gerb.li.
 gerber.li.
 gerd.li.
 gerda.li.
@@ -25025,6 +25035,7 @@ gochat.li.
 gocheck.li.
 gochi.li.
 gochris.li.
+gock.li.
 god.li.
 godaddy.li.
 godata.li.
@@ -25515,7 +25526,6 @@ greber-umweltservice.li.
 greco.li.
 grecofinefood.li.
 greece.li.
-greed.li.
 greeks.li.
 green-2-heat.li.
 green-butik.li.
@@ -27040,6 +27050,7 @@ hebebuehnenverleih.li.
 hebei.li.
 hebensorg.li.
 hebesektor.li.
+hebrewschool.li.
 hebup.li.
 hechao.li.
 hechenberger-ivt.li.
@@ -28512,6 +28523,7 @@ hostprofis.li.
 hosts.li.
 hoststar.li.
 hosttech.li.
+hosttime.li.
 hostwinds.li.
 hostyou.li.
 hot-call.li.
@@ -29509,7 +29521,6 @@ igel.li.
 igelhilfe-liechtenstein.li.
 igene-igeneration.li.
 igene.li.
-igeneigeneration.li.
 igepa24.li.
 igetbeast.li.
 igf.li.
@@ -29631,6 +29642,7 @@ ikh.li.
 iki.li.
 ikiga.li.
 ikigai.li.
+ikk.li.
 ikl.li.
 ikm.li.
 iknow.li.
@@ -30809,7 +30821,6 @@ iot-shop.li.
 iot.li.
 iota.li.
 iotatoken.li.
-iou.li.
 iovation.li.
 iowal.li.
 iox.li.
@@ -31776,6 +31787,8 @@ jeweler.li.
 jewelers.li.
 jewellery.li.
 jewelry.li.
+jewish.li.
+jewishlife.li.
 jext.li.
 jey.li.
 jeya.li.
@@ -32265,6 +32278,7 @@ jotun.li.
 jou.li.
 joueclub.li.
 joujou.li.
+joulz.li.
 jour.li.
 journ.li.
 journa.li.
@@ -35181,6 +35195,7 @@ kwin.li.
 kwintet-fristads.li.
 kwip.li.
 kwiz.li.
+kwk.li.
 kwon.li.
 kwong.li.
 kwopo.li.
@@ -38477,8 +38492,6 @@ lumini.li.
 luminor.li.
 lumio.li.
 lumitereo.li.
-lumivitae.li.
-lumivitaeschweiz.li.
 lumo.li.
 lumon.li.
 lumora.li.
@@ -38787,6 +38800,7 @@ m4p.li.
 m4x.li.
 m5j.li.
 m77.li.
+m88.li.
 m89.li.
 ma-bautech.li.
 ma-boutique-en.li.
@@ -39131,6 +39145,7 @@ makeupbeauty.li.
 makeupmakeup.li.
 makeuppermanent.li.
 makeupstudio.li.
+makgeol.li.
 makler.li.
 maklerzentrum-schweiz.li.
 maklerzentrum.li.
@@ -41611,6 +41626,7 @@ mittelpunkt.li.
 mittelstand.li.
 mittierenreden.li.
 mitutoyo.li.
+mitzvah.li.
 miu.li.
 miumeet.li.
 miura.li.
@@ -41632,6 +41648,7 @@ mixologiq.li.
 mixrad.li.
 mixx.li.
 miyabi.li.
+miyad.li.
 miyu.li.
 miz.li.
 mizan.li.
@@ -41837,6 +41854,7 @@ moby.li.
 mobymountain.li.
 moc.li.
 moca.li.
+mochaprox.li.
 mochi.li.
 mochou.li.
 mock.li.
@@ -43685,7 +43703,6 @@ nayf.li.
 nayi.li.
 naz.li.
 nazareth.li.
-nazi.li.
 nb-coaching.li.
 nba.li.
 nbaker-physio.li.
@@ -46381,6 +46398,7 @@ orai.li.
 oraise.li.
 orakel.li.
 oral.li.
+oralactin.li.
 oralps.li.
 orama.li.
 oramea.li.
@@ -48992,7 +49010,6 @@ plccenter.li.
 pld.li.
 pldgdgt.li.
 please.li.
-plectar.li.
 pleger-rehatechnik.li.
 pleitegeier.li.
 plena.li.
@@ -49269,6 +49286,7 @@ politaris.li.
 politica.li.
 political.li.
 politics.li.
+politiiv-co.li.
 politik-akademie.li.
 politik.li.
 politiv-co.li.
@@ -49293,6 +49311,7 @@ polly.li.
 polo.li.
 poloschule.li.
 polskinotariusz.li.
+polsteratelier-mx.li.
 polsterei-reza.li.
 polstersocken.li.
 polsterwerkstatt.li.
@@ -50588,6 +50607,7 @@ puny.li.
 pup.li.
 pupil.li.
 puppenkinder.li.
+puppy.li.
 puppys.li.
 pups.li.
 pupu.li.
@@ -51237,6 +51257,7 @@ rabatt.li.
 rabattcodes.li.
 rabatz.li.
 rabb.li.
+rabbi.li.
 rabbit.li.
 rabe.li.
 rabet.li.
@@ -52670,6 +52691,7 @@ rhum.li.
 rhuta.li.
 rhy-schual.li.
 rhy.li.
+rhyglanz.li.
 rhymarkt.li.
 rhyner.li.
 rhynress.li.
@@ -55503,7 +55525,6 @@ scriptum.li.
 scrivi.li.
 scrn.li.
 scro.li.
-scrol.li.
 scroll.li.
 scrollwerk.li.
 scrooge.li.
@@ -60697,7 +60718,6 @@ swissgarantie.li.
 swissgastrosolution.li.
 swissgeocapital.li.
 swissget.li.
-swissgolddeposit.li.
 swissgoldsafe.li.
 swissgolfweek.li.
 swissgourmetbox.li.
@@ -61171,6 +61191,7 @@ taim.li.
 taimei.li.
 taina.li.
 taing.li.
+tairikvip.li.
 taitai.li.
 taiwan.li.
 taixiu.li.
@@ -61301,6 +61322,7 @@ tankschutz.li.
 tannenhaeher.li.
 tanner.li.
 tannetrust.li.
+tannhau.li.
 tano.li.
 tanrevel.li.
 tans.li.
@@ -67403,7 +67425,6 @@ warren.li.
 wartech.li.
 warteck-invest.li.
 wartehaus-galerie.li.
-wartmann.li.
 wartsila.li.
 warum.li.
 warwick.li.
@@ -68741,6 +68762,7 @@ wk-designedtowork.li.
 wk-media.li.
 wkag.li.
 wkk-stanzteile.li.
+wkn.li.
 wkr.li.
 wks.li.
 wkv.li.
@@ -70290,6 +70312,7 @@ xn--kndel-kua.li.
 xn--kng-hoa.li.
 xn--knig-5qa.li.
 xn--knigsleiten-rfb.li.
+xn--knigsweg-n4a.li.
 xn--knpf-6qa.li.
 xn--knuddelbr-22a.li.
 xn--knzle-kva.li.
@@ -71133,6 +71156,7 @@ yantru.li.
 yanxi.li.
 yanyan.li.
 yao.li.
+yaoan.li.
 yaonan.li.
 yaoqiang.li.
 yaouc.li.
@@ -71151,6 +71175,7 @@ yare.li.
 yaretools.li.
 yaris.li.
 yarn.li.
+yarowa.li.
 yaru.li.
 yas.li.
 yasar.li.
@@ -72434,7 +72459,6 @@ zlmp.li.
 zln.li.
 zlyc678.li.
 zlyws.li.
-zmar.li.
 zmarta.li.
 zmb.li.
 zmefy.li.
